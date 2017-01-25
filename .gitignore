@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Intellij
+.idea
+
+# data files
+*.csv
+table_descriptions.txt
